@@ -1,12 +1,12 @@
 name = "Cobble Aero Pack"
 author = "jazck"
-version = "1.0.3"
+version = "1.0.4"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "b529afebabd50c24574971cb608670c3af48cc680277726407b015879d36420b"
+hash = "ac4e99c4423e1d816f5522a8c10aaeb5761c127143a892b78f9d967e5cdb4617"
 
 [versions]
 minecraft = "1.21.1"
