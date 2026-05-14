@@ -309,3 +309,11 @@ metafile = true
 file = "mods/yungs-extras.pw.toml"
 hash = "2541b092b92a82757e5d200a6093658e20db548bb8583abad3f4506ed04e5ce6"
 metafile = true
+
+[[files]]
+file = "unsup-1.1.6.jar"
+hash = "a470a85e47047bddbc66109d3eaea0062e9a44e7c5b71c13e959821421b2b344"
+
+[[files]]
+file = "unsup.ini"
+hash = "90303d5ca1ca5091b00561687005453b58eec116b348e30c48be5d820685d180"
