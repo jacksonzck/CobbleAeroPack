@@ -226,11 +226,6 @@ hash = "2e9dead89853555c8d909fe2549af2db5e5051c690fae695df93d2369aa8314c"
 metafile = true
 
 [[files]]
-file = "mods/roadweaver.pw.toml"
-hash = "0ddbf29266be1e77d725c581efe745b6185370193b8dd6dadba24fb2bf87b96d"
-metafile = true
-
-[[files]]
 file = "mods/sable.pw.toml"
 hash = "e4c43e944439f4941ba1c417ab3ac1ec3dbd9c95a8456a2069641d031317e142"
 metafile = true
