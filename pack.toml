@@ -1,0 +1,13 @@
+name = "Cobble Aero Pack"
+author = "jazck"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "ac75710067531f6b25565ff6a84ce5eac2b20ee110ff17b3d7f2c57d96f7c0d4"
+
+[versions]
+minecraft = "1.21.1"
+neoforge = "21.1.229"
