@@ -216,8 +216,18 @@ hash = "885c44754598d945b8fb26f0e509d3ba34560a560687550cdd4750919b43deab"
 metafile = true
 
 [[files]]
+file = "mods/rctmod.pw.toml"
+hash = "62be690120a069777b7c7646e146692119f612583f84b0f194bba88ab7ebffcd"
+metafile = true
+
+[[files]]
 file = "mods/remove-terralith-intro-message.pw.toml"
 hash = "2e9dead89853555c8d909fe2549af2db5e5051c690fae695df93d2369aa8314c"
+metafile = true
+
+[[files]]
+file = "mods/roadweaver.pw.toml"
+hash = "0ddbf29266be1e77d725c581efe745b6185370193b8dd6dadba24fb2bf87b96d"
 metafile = true
 
 [[files]]
